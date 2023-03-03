@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'C:/Cursos/Java/Apache-Maven Projetos/maven-javadoc-test/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Cursos/Java/Apache-Maven Projetos/maven-javadoc-test/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-javadoc-test 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Cursos/Java/Apache-Maven Projetos/maven-javadoc-test/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'maven-javadoc-test 1.0-SNAPSHOT API'
+one.digitalinnovation
+'C:/Cursos/Java/Apache-Maven Projetos/maven-javadoc-test/src/main/java/one/digitalinnovation/App.java'
+'C:/Cursos/Java/Apache-Maven Projetos/maven-javadoc-test/src/main/java/one/digitalinnovation/StatusUser.java'
+'C:/Cursos/Java/Apache-Maven Projetos/maven-javadoc-test/src/main/java/one/digitalinnovation/User.java'
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\src\main\java = 1674834655933
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\allclasses-index.html = 1674846950428
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\allpackages-index.html = 1674846950433
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\copy.svg = 1674846950522
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\element-list = 1674846950279
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\help-doc.html = 1674846950507
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\index-all.html = 1674846950476
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\index.html = 1674846950481
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\jquery-ui.overrides.css = 1674846950648
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\member-search-index.js = 1674846950445
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\module-search-index.js = 1674846950436
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\overview-tree.html = 1674846950400
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\package-search-index.js = 1674846950440
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\script.js = 1674846950518
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\search.js = 1674846950527
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\stylesheet.css = 1674846950514
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\tag-search-index.js = 1674846950447
+C:\Cursos\Java\Apache-Maven Projetos\maven-javadoc-test\target\site\apidocs\type-search-index.js = 1674846950442
